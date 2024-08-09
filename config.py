@@ -14,7 +14,7 @@ AccountList = [
     {
         "account_name": "Hamster_akkaunt",  # A custom name for the account (not important, just for logs)
         "Authorization": "Bearer 17232104032585XpJkjicP0CB3GA3NEzYKHAvbvaAAa0UrdN5GCWR9X0r5weN50SZoQYsJPems3KA6881747621",  # To get the token, refer to the README.md file
-        "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0",  # Refer to the README.md file to obtain a user agent
+        "UserAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.118 Mobile Safari/537.36 XiaoMi/MiuiBrowser/14.14.1-gn",  # Refer to the README.md file to obtain a user agent
         "Proxy": {},  # You can use proxies to avoid getting banned. Use {} for no proxy
         # Example of using a proxy:
         # "Proxy": {

@@ -10,6 +10,12 @@ Learn more about user-agents [here](https://en.wikipedia.org/wiki/User_agent).
 
 ## ↗️ How to find my phone's user agent?
 
+### Method 1:
+
+On your **phone**, open Telegram and start this bot to find your User Agent: [My UserAgent Bot](https://t.me/myuseragent_bot/MyUserAgent) Telegram Bot. (`@myuseragent_bot`)
+
+### Method 2:
+
 Open this website using your phone's default browser. Please avoid using Chrome, Firefox, Opera, or any other similar browsers. For Samsung devices, open the website using `Samsung Internet`, and for other Android phones, use the respective default Android browser.
 
 For iOS devices, use Safari.

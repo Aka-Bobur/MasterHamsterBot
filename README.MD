@@ -13,7 +13,7 @@ Master Hamster Kombat Bot is a Python-based automation tool specifically designe
 
 <hr>
 
-✅ Tested and confirmed to work as of `29 July 2024`. ✅
+✅ Tested and confirmed to work as of `15 August 2024`. ✅
 
 <img align="center" src="https://raw.githubusercontent.com/masterking32/MasterHamsterKombatBot/main/screenshot.png" alt="Screenshot" />
 
@@ -25,7 +25,7 @@ Master Hamster Kombat Bot is a Python-based automation tool specifically designe
 
 ## 🗒️ Features
 
-- Get the list of cards and automatically buy the best cards based on return value (This feature allows you to retrieve a list of available cards and automatically purchase the best cards based on their return value. The return value is determined by comparing the card's price with its profit per hour. By automating this process, you can optimize your card selection and maximize your earnings), (10 Jun 2024)
+- Get the list of cards and automatically buy the best cards based on return value (This feature allows you to retrieve a list of available cards and automatically purchase the best cards based on their return value. The return value is determined by comparing the card's price with its profit per hour. By automating this process, you can optimize your card selection and maximize your earnings), (11 Jun 2024)
 - Fixed some issues and added the ability to perform all of your taps. (06 August 2024)
 
 - **Added support for multi-accounts**. (June 12, 2024)
@@ -38,32 +38,53 @@ Master Hamster Kombat Bot is a Python-based automation tool specifically designe
 - Automatically complete Hamster Kombat **Mini-Games** to earn keys. (July 21, 2024)
 - Playground `Bike Ride 3D` added. (July 29, 2024)
 - Playground `My Clone Army`, `Chain Cube 2024`, `Train Miner` added. (August 06, 2024)
+- Playground `Merge Away` added. (August 15, 2024)
+- Playground `Twerk Race` added. (August 16, 2024)
 
 <hr>
 
 ## 💻 Installation
-
-1. Install Python 3.
-2. Install the required packages,
+1. Install Git & Download the Project.
+```bash
+git clone https://github.com/masterking32/MasterHamsterKombatBot
+```
+2. Install Python 3.
+3. Install the required packages,
 
 ```bash
 pip install requests colorlog
 ```
 
-3. Add your accounts
+4. Add your accounts
+
+- Copy the `config.py.example` file to `config.py`. (`cp config.py.example config.py`)
 
 - Locate your `Authorization Bearer token` and place it in the `config.py` file. [How to Obtain a Token and Set Up the Bot?](https://www.youtube.com/watch?v=cjWE7DmMFgw)
 - [Find your device's UserAgent](https://github.com/masterking32/MasterHamsterKombatBot/blob/main/useful_files/user-agents.md) and place it in the `config.py` file.
 - Configure accounts
 
-4. Execute the command `py main.py`.
-5. Have fun!
+5. Execute the command `py main.py`.
+6. Have fun!
+
+<hr>
+
+## 💻 Update to the Latest Version
+
+This option only works if you have Git installed on your system and you downloaded the project using the command: `git clone https://github.com/masterking32/MasterHamsterKombatBot`. If you downloaded the project as a zip file, simply re-download and replace all files.
+
+1. Run the following command: `git pull origin main`
+2. Update the configuration file if needed.
+3. Start the project.
 
 <hr>
 
 ### <a href="https://github.com/masterking32/MasterHamsterKombatBot/discussions/12#discussioncomment-9852919" target="_blank">🐧 Linux Installation Guide</a>
 
 ### <a href="https://github.com/masterking32/MasterHamsterKombatBot/discussions/33#discussioncomment-10045854" target="_blank">👥 Multi-Account Example</a>
+
+### <a href="https://github.com/masterking32/MasterHamsterKombatBot/discussions/133#discussioncomment-10290865">🔒 Proxy Example</a>
+
+You can buy proxies from <a href="https://www.webshare.io/?referral_code=2ghmowzxmc26">WebShare</a> or <a href="https://iproyal.com/?r=128279">IPRoyal</a>.
 
 <hr>
 

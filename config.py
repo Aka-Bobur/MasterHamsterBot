@@ -102,14 +102,14 @@ AccountList = [
 # If you don't want to use this feature, set "is_active" to False and leave "bot_token" and "uid" fields empty.
 # This feature is optional, and you can disable it by setting "is_active" to False.
 telegramBotLogging = {
-    "is_active": False,  # Set it to True if you want to use it, and make sure to fill out the below fields
-    "bot_token": "",  # HTTP API access token from https://t.me/BotFather ~ Start your bot after creating it
+    "is_active": True,  # Set it to True if you want to use it, and make sure to fill out the below fields
+    "bot_token": "7198700867:AAGLCLizY4GsZWzRGU9_b9Nuc2PoxeIS_ec",  # HTTP API access token from https://t.me/BotFather ~ Start your bot after creating it
     # Configure the what you want to receive logs from the bot
     "messages": {
         "general_info": True,  # General information
         "account_info": True,  # Account information
-        "http_errors": False,  # HTTP errors
-        "other_errors": False,  # Other errors
+        "http_errors": True,  # HTTP errors
+        "other_errors": True,  # Other errors
         "daily_cipher": True,  # Daily cipher
         "daily_task": True,  # Daily task
         "upgrades": True,  # Upgrades

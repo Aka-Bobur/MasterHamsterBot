@@ -111,7 +111,7 @@ telegramBotLogging = {
         "http_errors": False,  # HTTP errors
         "other_errors": False,  # Other errors
         "daily_cipher": True,  # Daily cipher
-        "daily_task": False,  # Daily task
+        "daily_task": True,  # Daily task
         "upgrades": True,  # Upgrades
     },
 }
